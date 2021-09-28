@@ -26,7 +26,7 @@ I used this project to learn about MVC architecture, because it is a good way to
 
 ![](https://i.imgur.com/rmRC8Vq.jpeg)
 
-For this project i use Entity Framework Core to Sql Server, that i import to my project with this command:
+For this project I use Entity Framework Core to Sql Server, that I import to my project with this command:
 
 `Install-Package Microsoft.EntityFrameworkCore.SqlServer`
 
@@ -42,6 +42,6 @@ To create my DataBase I use the Migration, to add the Migration to my Project I 
  
  And I use the command:
  `Update-Database`
- to Update my DataBase when I don something new.
+ to Update my Database when I do something new.
  
  Reference: I used the knowledge obtained in the class "Application Development with .NET" given by Professor Anderson Clavico Moreira on the Digital Innovation One website to make this project.
